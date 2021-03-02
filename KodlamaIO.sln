@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{0CF36FA9-9A47-4B69-BC19-DBC5762BCDF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMarketingProject", "GameMarketingProject\GameMarketingProject.csproj", "{F3400D99-EA7A-49D6-ACC5-0E34B3E03E15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0CF36FA9-9A47-4B69-BC19-DBC5762BCDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF36FA9-9A47-4B69-BC19-DBC5762BCDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CF36FA9-9A47-4B69-BC19-DBC5762BCDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3400D99-EA7A-49D6-ACC5-0E34B3E03E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3400D99-EA7A-49D6-ACC5-0E34B3E03E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3400D99-EA7A-49D6-ACC5-0E34B3E03E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3400D99-EA7A-49D6-ACC5-0E34B3E03E15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
